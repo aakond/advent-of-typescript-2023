@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-typescript-2023",
+  "version": "1.0.0",
+  "description": "TypeScript advent calendar 2023",
+  "scripts": {
+    "check": "tsc -noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakond/advent-of-typescript-2023.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/aakond/advent-of-typescript-2023#readme"
+}
