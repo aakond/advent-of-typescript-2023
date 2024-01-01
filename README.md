@@ -20,6 +20,7 @@ Here are bunch of my solutions for the tasks:
 * [❄️ Day 15](./day-15/solution.ts)
 * [❄️ Day 16](./day-16/solution.ts)
 * [❄️ Day 17](./day-17/solution.ts)
+* [❄️ Day 18](./day-18/solution.ts)
 
 <br/>
 
